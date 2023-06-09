@@ -715,11 +715,13 @@ print(f'''There is a 95% chance that the current value of stocks and bonds, USD 
 
 
 # #### Question: Will weighting the portfolio more heavily to stocks allow the credit union members to retire after only 10 years?
-In short, no.
+# 
+# In short, no.
+# 
+# This is a subjective question, in my opinion neither of the upper bounded returns for either approaches provide enough for retirement. Especially considering that the earlier the retirement the more funds needed for the rest of your life and activities. Other factors like inflation need to be considered as well.
+# 
+# I think changing the weighting is not enough to significantly alter the amount saved in 10 years, although relatively speaking it does cut the time by 1/3 while still obtaining about 1/2 of the funds of the thirty year approach. It would be better to heavily weight stocks over a longer period of time, similar to target date funds.
 
-This is a subjective question, in my opinion neither of the upper bounded returns for either approaches provide enough for retirement. Especially considering that the earlier the retirement the more funds needed for the rest of your life and activities. Other factors like inflation need to be considered as well.
-
-I think changing the weighting is not enough to significantly alter the amount saved in 10 years, although relatively speaking it does cut the time by 1/3 while still obtaining about 1/2 of the funds of the thirty year approach. It would be better to heavily weight stocks over a longer period of time, similar to target date funds.
 # In[ ]:
 
 
